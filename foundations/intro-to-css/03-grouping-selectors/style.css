@@ -1,0 +1,18 @@
+.yes {
+	/* background-color: #000000; */
+	/* background-color: rgb(0, 0, 0); */
+	background-color: hsl(0, 0%, 0%);
+
+	/* color: rgb(255, 255, 255); */
+	/* color: #ffffff; */
+	color: hsl(0, 0%, 100%);
+}
+
+.no {
+	background-color: rgb(255, 246, 77);
+}
+.yes,
+.no {
+	font-size: 28px;
+	font-family: Helvetica, 'Times New Roman', sans-serif;
+}
