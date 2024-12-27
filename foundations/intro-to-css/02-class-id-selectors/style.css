@@ -1,0 +1,21 @@
+.odd-number {
+	background-color: rgb(224, 147, 147);
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second-element {
+	/* color: rgb(0, 0, 255); */
+	/* color: #0000ff; */
+	color: hsl(240, 100%, 50%);
+	font-size: 36px;
+}
+
+#third-element{
+	font-size: 24px; /*redundant*/
+}
+
+#fourth-element {
+	background-color: hsl(120, 100%, 75%);
+	font-size: 24px; /* redundant we could make a separate class of adjust-font to apply this as number 3 and 4 share same size*/
+	font-weight: 700;
+}
